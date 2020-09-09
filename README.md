@@ -7,5 +7,5 @@ A demo project using MongoDB and ServiceStack.
  - Download demo database and dump it at local db or remote. I did it locally, and renamed sample_mflix database to my_movie_db
  - Remove "num_mflix_comments" field from movies collection
  - Create your connection string, there is no authentication needed while working/testing locally.
- - Update AppSettings.json => "MongoUri": "<Your Connection String>"
+ - Update AppSettings.json => "MongoUri": "&lt;Your Connection String&gt;"
  
